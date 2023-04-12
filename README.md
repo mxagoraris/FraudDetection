@@ -1,4 +1,4 @@
-# FraudDetection
+# Fraud Detection
 Symbolic AI vs NN for Fraud Detection using Paysim
 
 The prevalence of digital technologies, the turn towards digital markets, and the abandonment of cash during Covid-19 have reignited the discussion of Anti-Money 
